@@ -291,6 +291,3 @@ All questions reside in `public/questions.json`. To modify an existing question 
 The website runs entirely offline once installed. There are no remote API calls, third-party analytics, or external font/CDN requirements necessary for runtime execution.
 
 To archive or move the project to another computer, simply copy the folder (or use the included `nptel-practice.zip`), run `npm install`, and `npm run dev`.
-#   n p t e l - p r a c t i c e - h u b 
- 
- 
